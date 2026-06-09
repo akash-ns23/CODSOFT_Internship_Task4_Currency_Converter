@@ -1,0 +1,12 @@
+===== CURRENCY CONVERTER =====
+Available Currencies:
+USD  INR  EUR  GBP  JPY
+
+Enter Base Currency: INR
+Enter Target Currency: USD
+Enter Amount: 3000
+
+===== RESULT =====
+3000.00 INR = 35.93 USD
+
+=== Code Execution Successful ===
